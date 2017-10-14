@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "850400452946",
+    "firebase_url": "https://appetite-e101e.firebaseio.com",
+    "project_id": "appetite-e101e",
+    "storage_bucket": "appetite-e101e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850400452946:android:5730a0d85134fc87",
+        "android_client_info": {
+          "package_name": "com.example.surbhimiglani.appetite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850400452946-56s3h36it8jss2tl6036gd33krfnun8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surbhimiglani.appetite",
+            "certificate_hash": "740dfad4209f82acc202253f8fc95505dfb28089"
+          }
+        },
+        {
+          "client_id": "850400452946-s99jfgqgihffabrds96o8fbu8h595a8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDLc634j5EVd_pw3PO4MHDWDtoriJHuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850400452946-s99jfgqgihffabrds96o8fbu8h595a8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
